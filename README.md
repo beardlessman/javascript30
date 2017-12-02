@@ -7,3 +7,6 @@ https://dmungalov.github.io/javascript30/01-drumkit/
 
 ## 02-Clock
 https://dmungalov.github.io/javascript30/02-clock/
+
+## 02-Play with CSS variables
+https://dmungalov.github.io/javascript30/03-css-variables/
