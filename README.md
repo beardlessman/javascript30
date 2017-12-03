@@ -10,3 +10,6 @@ https://dmungalov.github.io/javascript30/02-clock/
 
 ## 03-Play with CSS variables
 https://dmungalov.github.io/javascript30/03-variable-css/
+
+## 04-Array cardio day 1
+https://dmungalov.github.io/javascript30/04-array-cardio/
