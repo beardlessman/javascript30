@@ -16,3 +16,6 @@ https://beardlessman.github.io/javascript30/04-array-cardio-1/
 
 ## 05-Flex Panels Image Gallery
 https://beardlessman.github.io/javascript30/05-image-gallery/
+
+## 06-Type Ahead
+https://beardlessman.github.io/javascript30/06-type-ahead/
